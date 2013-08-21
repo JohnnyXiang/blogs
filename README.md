@@ -1,5 +1,6 @@
-blogs
-=====
+gotobus
+=======
+Path:
+http://localhost/opencart/gotobus/
 
-first ruby blogs
-it is first edited
+Go to Bus
